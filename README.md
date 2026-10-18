@@ -4,7 +4,8 @@ Recover a bricked Intel Edison through its mask ROM download mode (DnX, USB `808
 with xFSTK, installing the IFWI and mainline U-Boot.
 
 Use this when the serial console stops at `*** Ready to receive application ***` and no
-U-Boot banner follows (see `edison-docs/runbooks/stage0-diagnose.md`).
+U-Boot banner follows (see edison-image's
+[What state is my board in?](https://github.com/open-edison/edison-image/blob/main/docs/troubleshooting.md#what-state-is-my-board-in)).
 
 ## Requirements
 
